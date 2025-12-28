@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rumänerin oder Rumänin? – Eine linguistische Analyse</title>
+    <meta name="description" content="Umfassende sprachwissenschaftliche Analyse zur weiblichen Herkunftsbezeichnung Rumänerin.">
+
+    <style>
+        body {
+            font-family: Georgia, "Times New Roman", serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            line-height: 1.7;
+        }
+        header {
+            background-color: #2b2b2b;
+            color: white;
+            padding: 30px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 30px;
+        }
+        nav {
+            font-size: 14px;
+            opacity: 0.85;
+        }
+        main {
+            max-width: 960px;
+            background-color: white;
+            margin: 30px auto;
+            padding: 50px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.12);
+        }
+        h2 {
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 6px;
+            margin-top: 50px;
+        }
+        h3 {
+            margin-top: 30px;
+        }
+        table {
+            border-collapse: collapse;
+            margin: 25px 0;
+            width: 100%;
+        }
+        table, th, td {
+            border: 1px solid #999;
+        }
+        th, td {
+            padding: 10px;
+        }
+        .highlight {
+            background-color: #eef6ff;
+            padding: 18px;
+            border-left: 5px solid #3366cc;
+            margin: 25px 0;
+        }
+        .counter {
+            background-color: #fff4f4;
+            padding: 18px;
+            border-left: 5px solid #cc3333;
+            margin: 25px 0;
+        }
+        .conclusion {
+            background-color: #f8f8f8;
+            padding: 30px;
+            border: 1px solid #ddd;
+            margin-top: 50px;
+            font-size: 18px;
+        }
+        footer {
+            background-color: #2b2b2b;
+            color: white;
+            text-align: center;
+            font-size: 13px;
+            padding: 20px;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Rumänerin oder Rumänin?</h1>
+    <nav>Grammatik · Wortbildung · Linguistik · Sprachlogik</nav>
+</header>
+
+<main>
+
+<h2>Einleitung</h2>
+<p>
+Die korrekte weibliche Bezeichnung für eine Person aus Rumänien wird im Deutschen
+kontrovers diskutiert. Diese Seite analysiert die Frage nicht aus
+Alltags-, sondern aus <strong>sprachsystematischer Perspektive</strong>.
+</p>
+
+<h2>1. Phonetische Ausgleichsregel</h2>
+<p>
+Das Deutsche vermeidet harte Vokalkollisionen. Die Einschiebung von
+<strong>-er-</strong> dient der rhythmischen Glättung:
+</p>
+<div class="highlight">
+Ru-mä-ne-rin → gleichmäßiger Sprechrhythmus<br>
+Ru-mä-nin → Zusammenstoß langer Vokale
+</div>
+
+<h2>2. Historischer Umlaut-Erhalt</h2>
+<p>
+Der Umlaut <strong>ä</strong> im Wortstamm ist historisch gewachsen.
+Die Silbe <strong>-er-</strong> stabilisiert diesen Umlaut.
+Eine Eliminierung schwächt die morphologische Struktur.
+</p>
+
+<h2>3. Maskulinum–Femininum-Logik</h2>
+<p>
+Maskuline Grundform:
+</p>
+<div class="highlight">
+der Rumäner
+</div>
+<p>
+Regel der deutschen Wortbildung:
+</p>
+<div class="highlight">
+Maskulinum + -in → Femininum
+</div>
+<p>
+Ergebnis:
+</p>
+<div class="highlight">
+Rumäner → Rumänerin ✔
+</div>
+
+<h2>4. Plural-Argument</h2>
+<p>
+Der Plural lautet:
+</p>
+<div class="highlight">
+die Rumäner
+</div>
+<p>
+Es existiert keine Grundform <em>Rumän</em>.
+Damit fehlt die Basis für eine reguläre Ableitung <em>Rumänin</em>.
+</p>
+
+<h2>5. Vergleichsargument</h2>
+<table>
+<tr><th>Männlich</th><th>Weiblich</th></tr>
+<tr><td>Amerikaner</td><td>Amerikanerin</td></tr>
+<tr><td>Spanier</td><td>Spanierin</td></tr>
+<tr><td>Rumäner</td><td><strong>Rumänerin</strong></td></tr>
+</table>
+
+<h2>6. Häufiges Gegenargument</h2>
+<div class="counter">
+<strong>„Aber Rumänin steht im Duden!“</strong><br><br>
+Der Duden dokumentiert den Sprachgebrauch, nicht zwingend die
+sprachsystematisch stringenteste Form.
+Häufigkeit ersetzt keine morphologische Regel.
+</div>
+
+<h2>7. Etymologischer Ursprung</h2>
+<p>
+Lateinisch:
+</p>
+<div class="highlight">
+Romanus → Romaner → Rumäner → Rumänerin
+</div>
+<p>
+<em>Rumänin</em> ist eine moderne Verkürzung ohne historische Ableitung.
+</p>
+
+<h2>8. Kurzfassung für Nicht-Linguisten</h2>
+<ul>
+    <li>Es heißt <strong>der Rumäner</strong></li>
+    <li>Also heißt es <strong>die Rumänerin</strong></li>
+    <li>Alles andere ist eine Vereinfachung</li>
+</ul>
+
+<div class="conclusion">
+<strong>Endgültiges Fazit:</strong><br><br>
+Aus phonetischer, morphologischer, historischer und logischer Sicht
+ist die sprachlich konsistente Form eindeutig:
+<br><br>
+<strong>eine Rumänerin</strong>
+</div>
+
+</main>
+
+<footer>
+© 2025 Deutsches Grammatikportal · Linguistische Analyse
+</footer>
+
+</body>
+</html>
